@@ -37,3 +37,9 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 8. Continuously learn and improve by attending workshops, reading blogs, or joining online communities.       
 9. Communicate effectively with team members, clients, managers, users, testers, et al. Clear communication is crucial for a smooth project.         
  10. Most importantly, always be patient and kind with yourself. Learning and growing as a programmer can be challenging, but it'll be worth it in end.
+
+# 2023-11-23
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented pace, it is essential to stay up-to-date with the latest developments and techniques in the field. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the topics that interest you.
+
+In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in any project, but especially in software development, where collaboration is often essential for success. 
+ -来自ChatGPT
