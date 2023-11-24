@@ -43,3 +43,8 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in any project, but especially in software development, where collaboration is often essential for success. 
  -来自ChatGPT
+
+# 2023-11-24
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bugs. You can use a task management tool, such as Trello or Jira, to keep track of tasks and their priorities.
