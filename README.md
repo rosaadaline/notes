@@ -48,3 +48,6 @@ In addition to staying up to date with technological advancements, being a good 
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bugs. You can use a task management tool, such as Trello or Jira, to keep track of tasks and their priorities.
+
+# 2023-11-25
+- "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and concise variable names, writing comments to explain complex logic, and organizing your code into modular functions or classes. Remember, code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
