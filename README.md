@@ -51,3 +51,16 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-11-25
 - "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and concise variable names, writing comments to explain complex logic, and organizing your code into modular functions or classes. Remember, code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to keep in mind:
+
+1. Break down large projects into smaller, manageable tasks.
+2. Use task management tools, such as Trello or Asana, to track your progress. 
+3. Set deadlines for each task and prioritize them according to their importance and urgency.  
+4. Learn to say "no" to tasks that are outside your scope or don't align with your goals.   
+5. Stay organized by maintaining a clean and well-structured codebase.    
+6. Document your code and comments to make it easier for others to understand and maintain.     
+7. Continuously learn and improve your skills by reading blogs, attending workshops, or taking online courses.       
+8. Collaborate with others and share your knowledge to grow as a programmer.        
+9. Remember that programming is a continuous process, so always be ready to adapt and learn from your mistakes.
