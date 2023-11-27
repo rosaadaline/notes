@@ -64,3 +64,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 7. Continuously learn and improve your skills by reading blogs, attending workshops, or taking online courses.       
 8. Collaborate with others and share your knowledge to grow as a programmer.        
 9. Remember that programming is a continuous process, so always be ready to adapt and learn from your mistakes.
+
+# 2023-11-27
+- "Keep it simple, stupid!"
