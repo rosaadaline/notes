@@ -87,3 +87,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-12-01
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. Focus on writing clear, correct, and maintainable code first. Optimize only when necessary and after profiling your program to identify bottlenecks.
+
+# 2023-12-02
+- Today's programming wisdom is to always keep learning and adapting. The field of programming is constantly evolving, with new technologies and best practices emerging all the time. To stay ahead of the curve, it's important to make a habit of continuous learning, whether through reading books and articles, taking online courses, attending conferences and workshops, or collaborating with other developers. Additionally, being open to new ideas and approaches can help you find creative solutions to challenging problems and improve your overall skillset as a programmer. So never stop learning, stay curious, and be willing to adapt to change – these are key qualities of a successful programmer.
