@@ -149,3 +149,6 @@ Another piece of wisdom in programming is the importance of writing clean, well-
 
 # 2023-12-18
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, making sure to allow enough time so you don't feel rushed or overwhelmed. Finally, use task management tools like Trello or Asana to keep track of your progress and make sure you stay on track. Remember to take breaks throughout the day to clear your mind and avoid burnout. By following these tips, you can become a more effective programmer and achieve your goals more quickly.
+
+# 2023-12-19
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code before it's necessary can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, simple code first and optimize only when profiling shows that a specific part of the code is causing performance issues.
