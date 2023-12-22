@@ -158,3 +158,10 @@ Another piece of wisdom in programming is the importance of writing clean, well-
 
 # 2023-12-21
 - "Keep it simple, stupid!"
+
+# 2023-12-22
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your to-dos and make adjustments as needed. 
+ ---
+ Second, wisely plan you time by estimating how long each task will take. You can use a time tracking tool like Toggl or RescueTime to help with this. Knowing how much time you have allocated for each step will ensure that your project stays on track and doesn't get derailed by time-consuming tasks that could have been avoided.
