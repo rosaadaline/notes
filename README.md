@@ -279,3 +279,9 @@ In more detail, this quote emphasizes that over-concern with optimizing code ear
 
 # 2024-01-16
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to stay organised and track your progress. By following these steps, you will be able to finish your tasks on time and meet your goals.
+
+# 2024-01-17
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the things that matter most.
+
+Second, use tools and templates to help organize your code and your workflow. Using version control systems like Git can help keep track of your changes and collaborate with others more effectively. Additionally, using code editors and IDEs that support syntax highlighting, auto-completion, debugging tools, etc. can save you time and make your life easier. 
+ - 来自帮助助手
