@@ -291,3 +291,8 @@ Second, use tools and templates to help organize your code and your workflow. Us
 
 Second, use tools and techniques to manage your timelike using a calendar, task list, or project management software. These tools can help keep you organized and on track with your goals. Make sure to allocate time for each task, as well as for breaks and downtime. Downtime is essential for mental health and creativity. 
  -- 212 words
+
+# 2024-01-19
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clear, maintainable code first; optimize only when necessary and after profiling. Remember that simplicity, readability, and maintainability are key for long-term software success." 
+
+In more detail, this quote emphasizes that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted effort. It's better to write straightforward code that works correctly, then optimize specific parts based on measured performance data, rather than guessing where bottlenecks might be. This ensures a solid foundation for your software project and makes it easier to evolve over time.
