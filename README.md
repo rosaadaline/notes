@@ -296,3 +296,9 @@ Second, use tools and techniques to manage your timelike using a calendar, task 
 - "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clear, maintainable code first; optimize only when necessary and after profiling. Remember that simplicity, readability, and maintainability are key for long-term software success." 
 
 In more detail, this quote emphasizes that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted effort. It's better to write straightforward code that works correctly, then optimize specific parts based on measured performance data, rather than guessing where bottlenecks might be. This ensures a solid foundation for your software project and makes it easier to evolve over time.
+
+# 2024-01-20
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, determine the most important tasks to complete, as these should take priority. Then, break down each task into smaller, manageable steps, which will make it easier to stay focused and avoid feeling overwhelmed.
+
+Use task management tools, such as Trello or Asana, to keep track of your tasks and progress. These tools can help organize your thoughts and make your workflow more structured. Additionally, set reminders and deadlines for each tasks so that you stay on track and don't forget anything important. 
+ - 来自NLP
