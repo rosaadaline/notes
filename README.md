@@ -302,3 +302,6 @@ In more detail, this quote emphasizes that trying to optimize code too early in 
 
 Use task management tools, such as Trello or Asana, to keep track of your tasks and progress. These tools can help organize your thoughts and make your workflow more structured. Additionally, set reminders and deadlines for each tasks so that you stay on track and don't forget anything important. 
  - 来自NLP
+
+# 2024-01-21
+- "Keep it simple, stupid!"
